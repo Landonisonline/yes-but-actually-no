@@ -1,0 +1,28 @@
+.content {
+  font-family: Arial, sans-serif;
+}
+
+.buttons {
+  /*display: flex;
+  justify-content: center;
+  align-items: center;*/
+}
+
+.btn {
+  color: #ffffff;
+  font-size: 30px;
+  cursor: pointer;
+  border: 3px solid gray;
+  border-radius: 20px;
+  width: fit-content;
+  padding: 5px 5px;
+}
+
+.btn:hover {
+  font-size: 31px;
+  transition: font-size .3s;
+}
+
+.blue {
+  background-color: #0000ff;
+}
